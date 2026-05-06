@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/heyreach/heyreach-cli-releases/releases/download/v1.0.0/heyreach_windows_amd64.zip",
+            "bin": [
+                "heyreach.exe"
+            ],
+            "hash": "885ca8fc9a45c48e447336f497bcea0b4fde6edcabc52cafde6e4709bae08c84"
+        },
+        "arm64": {
+            "url": "https://github.com/heyreach/heyreach-cli-releases/releases/download/v1.0.0/heyreach_windows_arm64.zip",
+            "bin": [
+                "heyreach.exe"
+            ],
+            "hash": "101713d77e9569f60861dc9430efd46cb06362a42e011419fb5d54200e4e3661"
+        }
+    },
+    "homepage": "https://heyreach.io",
+    "license": "MIT",
+    "description": "CLI for HeyReach LinkedIn outreach automation"
+}
