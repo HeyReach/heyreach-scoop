@@ -6,14 +6,14 @@
             "bin": [
                 "heyreach.exe"
             ],
-            "hash": "d8560b510b3d112d6992b21f7c9add07001de6360c0981bb05df6f047bec152b"
+            "hash": "5f31b646070d4e52ca1667b6a89a74fb53612b15415457ef4f666f32cd975517"
         },
         "arm64": {
             "url": "https://github.com/heyreach/heyreach-cli-releases/releases/download/v1.0.1/heyreach_windows_arm64.zip",
             "bin": [
                 "heyreach.exe"
             ],
-            "hash": "08ed14c4e8413460714d07ee28bc049e8647a9c3ba26e2052073b7bfea23ed8e"
+            "hash": "4ed801ffe91f5f608bbe652b4725ec0368260e48b96f6b1386895df1812b3b41"
         }
     },
     "homepage": "https://heyreach.io",
