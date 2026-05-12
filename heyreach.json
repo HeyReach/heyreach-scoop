@@ -1,19 +1,19 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/heyreach/heyreach-cli-releases/releases/download/v1.0.2/heyreach_windows_amd64.zip",
+            "url": "https://github.com/heyreach/heyreach-cli-releases/releases/download/v1.0.3/heyreach_windows_amd64.zip",
             "bin": [
                 "heyreach.exe"
             ],
-            "hash": "fa9a5dea8913d0ef10a41b13c284ab9335b419566c4b0d06736affd452bc4999"
+            "hash": "e8ec0e25e6aebb80e7c7302e85fedd77f56a3d3d9f02d9e4bdb5247d23227c37"
         },
         "arm64": {
-            "url": "https://github.com/heyreach/heyreach-cli-releases/releases/download/v1.0.2/heyreach_windows_arm64.zip",
+            "url": "https://github.com/heyreach/heyreach-cli-releases/releases/download/v1.0.3/heyreach_windows_arm64.zip",
             "bin": [
                 "heyreach.exe"
             ],
-            "hash": "05b7d2bbed6f87dfb77ab71edf2cb3a311ce8781ddf39df855df1439cf4aa8a1"
+            "hash": "2b91fc9e12ef0dc1855c80714b0d2226c485cc57f65a964f7501a0d816ec309d"
         }
     },
     "homepage": "https://heyreach.io",
